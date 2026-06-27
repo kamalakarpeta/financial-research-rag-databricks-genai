@@ -11,7 +11,7 @@
 
 Analysts spend hours hunting across research notes, filings and internal documents for answers that already exist somewhere in the corpus. A general-purpose chatbot can't help here: answers must be **grounded in the firm's own documents**, **cited**, and **governed** — no hallucinated numbers, no data leaving the security boundary.
 
-This project (**circa 2025**) delivers a **Retrieval-Augmented Generation** assistant on the **Databricks Data Intelligence Platform**: documents are chunked and embedded into **Mosaic AI Vector Search**, a retriever grounds an **LLM** in the relevant passages, and the whole system is **evaluated with MLflow** and **governed by Unity Catalog**. It is the **GenAI / AI-platform** stage of my journey — applying everything from the lakehouse era to production generative AI, and one of my two current headline strengths.
+This project (**circa 2025**) delivers a **Retrieval-Augmented Generation** assistant on the **Databricks Data Intelligence Platform**: documents are chunked and embedded into **Mosaic AI Vector Search**, a retriever grounds an **LLM** in the relevant passages, and the whole system is **evaluated with MLflow** and **governed by Unity Catalog**. It is the **GenAI / AI-platform** stage of my journey — applying everything from the lakehouse era to a first generative-AI proof-of-concept — the direction I'm now extending into.
 
 ## Architecture
 
@@ -64,7 +64,7 @@ flowchart LR
 
 ## Where this sits in my journey
 
-Part of my **Data & AI Platform Engineering** portfolio — the **2025 GenAI / AI-platform** stage (my current role), and one of my two current headline strengths alongside Microsoft Fabric.
+Part of my **Data & AI Platform Engineering** portfolio — the **2025 GenAI / AI-platform** stage (my current role) — my first GenAI proof-of-concept and the direction I'm now extending into.
 
 ⏮ prev: [grant-data-integration-databricks-pipeline](https://github.com/kamalakarpeta/grant-data-integration-databricks-pipeline) · ⏭ next: [enterprise-lakehouse-microsoft-fabric](https://github.com/kamalakarpeta/enterprise-lakehouse-microsoft-fabric)
 Full journey: https://kamalakarpeta.github.io
