@@ -2,7 +2,7 @@
 
 > Governed Retrieval-Augmented Generation over financial research, built on the Databricks AI platform · **2025** · GenAI
 
-**Role at the time:** Data & AI Platform Architect · *(2025 — present role)*
+**Role at the time:** Hands-on Staff Data Engineer · Data & AI Platform Engineering · *(2025 — present role)*
 **Type:** Portfolio case study — architecture & approach are representative; production code is proprietary.
 
 ---
@@ -64,7 +64,7 @@ flowchart LR
 
 ## Where this sits in my journey
 
-Part of my **Data & AI Platform Architect** portfolio — the **2025 GenAI / AI-platform** stage (my current role), and one of my two current headline strengths alongside Microsoft Fabric.
+Part of my **Data & AI Platform Engineering** portfolio — the **2025 GenAI / AI-platform** stage (my current role), and one of my two current headline strengths alongside Microsoft Fabric.
 
 ⏮ prev: [grant-data-integration-databricks-pipeline](https://github.com/kamalakarpeta/grant-data-integration-databricks-pipeline) · ⏭ next: [enterprise-lakehouse-microsoft-fabric](https://github.com/kamalakarpeta/enterprise-lakehouse-microsoft-fabric)
 Full journey: https://kamalakarpeta.github.io
